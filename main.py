@@ -15,4 +15,3 @@ ax.grid()
 ax.legend()
 ax.set_aspect('equal')
 plt.show()
-
