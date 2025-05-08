@@ -41,7 +41,7 @@ ani = FuncAnimation(
     init_func=init, 
     blit=True, 
     interval=20, 
-    repeat=False
+    repeat=True
 )
 
 plt.title("Projectile Motion Animation")
